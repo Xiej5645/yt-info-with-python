@@ -6,7 +6,7 @@ A simple Python script that is able to get YouTube videos or playlists data.
 # WARNING: I DO NOT TAKE ANY RESPONSIBILITY FOR YOUR USAGE OF THIS TOOL! THIS IS FOR EDUCATIONAL PURPOSES ONLY!
 
 ## Simple UI demo
-![demo_pic](demo.png)
+<img width="300" alt="demo_pic" src="demo.png">
 
 ## To run
 > Prereq: Must have Python installed on local machine
